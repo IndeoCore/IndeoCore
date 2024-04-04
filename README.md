@@ -6,7 +6,7 @@
 
 - 🌱 Now, I'm studying **Python and C++**
 
-- 👯 At the moment I'm working on two projects at ThundeRatz, ThunderLeague (RoboCupSoccer Simulation League) and Tracer (Line Follower robot)
+- 👯 At the moment I'm working on two projects at ThundeRatz: ThunderLeague (RoboCupSoccer Simulation League) and Tracer (Line Follower robot)
 
 - 💬 Ask me about **Python and C++**
 
