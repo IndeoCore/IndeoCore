@@ -6,7 +6,7 @@
 
 - 🌱 Now, I'm studying **Python and C++**
 
-- 👯 At the moment I'm working on two projects at ThundeRatz: ThunderLeague (RoboCupSoccer Simulation League) and Tracer (Line Follower robot)
+- 👯 At the moment I'm working on two projects at ThundeRatz: ThunderLeague (RoboCupSoccer Simulation League) and Tracer (Line Follower robot), and I'm also working with databases and backend programming at Seeds!
 
 - 💬 Ask me about **Python and C++**
 
@@ -18,6 +18,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/joao-indeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao indeo" height="30" width="40" /></a>
 <a href="https://www.instagram.com/joao.indeo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@joao.indeo" height="30" width="40" /></a>
+</p>
+
+<h2 align="left">Follow Seeds!</h2>
+<p align="left">
+<a href="https://twitter.com/openseeds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@openseeds" height="30" width"40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
