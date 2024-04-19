@@ -2,7 +2,7 @@
 <h2 align="center">I'm a student of Electrical Engineering at University of São Paulo (USP)</h2>
 
 
-- 🔭 At the moment I'm a member at [ThundeRatz Robotics Team](https://github.com/ThundeRatz) and I'm working on a project to become a Junior Developer, you can find it [here](https://github.com/IndeoCore/Project-Junior-Developer)
+- 🔭 At the moment I'm a member at [ThundeRatz Robotics Team](https://github.com/ThundeRatz) and also I'm a member at [Seeds](https://github.com/open-seeds), an open project that aims to help junior developers!
 
 - 🌱 Now, I'm studying **Python and C++**
 
