@@ -2,11 +2,11 @@
 <h2 align="center">I'm a student of Electrical Engineering at University of São Paulo (USP)</h2>
 
 
-- 🔭 At the moment I'm a member at [ThundeRatz Robotics Team](https://github.com/ThundeRatz) and also I'm a member at [Seeds](https://github.com/open-seeds), an open project that aims to help junior developers!
+- 🔭 At the moment I'm a member at [ThundeRatz Robotics Team](https://github.com/ThundeRatz)!
 
 - 🌱 Now, I'm studying **Python and C++**
 
-- 👯 At the moment I'm working on one project at ThundeRatz: ThunderLeague (RoboCupSoccer Simulation League) and I'm also working with databases and backend programming at Seeds!
+- 👯 At the moment I'm working on one project at ThundeRatz: ThunderLeague (RoboCupSoccer Simulation League)!
 
 - 💬 Ask me about **Python and C++**
 
