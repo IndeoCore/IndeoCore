@@ -20,11 +20,6 @@
 <a href="https://www.instagram.com/joao.indeo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@joao.indeo" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Follow Seeds!</h2>
-<p align="left">
-<a href="https://twitter.com/openseeds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@openseeds" height="30" width"40" /></a>
-</p>
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="90" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" width="120" height="40"/> </a> <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" width="90" height="40"/> </a>
 </p>
